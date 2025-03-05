@@ -2,7 +2,5 @@
 
 ### UI Retrieved From Pinecone
 ---
-
-## Troubleshooting
-
+ 
 # LegalSemanticSearch
