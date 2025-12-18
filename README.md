@@ -31,10 +31,10 @@ This repository focuses on the **UI frontend**, which provides an intuitive inte
 Below are sample screenshots of the UI in action:
 
 ### Search Result (Model I-Jl)
-![Search Result I-Jl](img/search_result_ui.png.png)
+![Search Result I-Jl](img/search_result_ui.png)
 
 ### Search Result UI
-![Search Result UI](img/search_result_ui_1.png.png)
+![Search Result UI](img/search_result_ui_1.png)
 
 ### Matched Case File
 ![Matched Case File](img/matched_case_file_full_detail.png)
